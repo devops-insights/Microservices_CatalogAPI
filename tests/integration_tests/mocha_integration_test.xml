@@ -1,0 +1,7 @@
+<testsuite name="Mocha Tests" tests="5" failures="0" errors="0" skipped="0" timestamp="Thu, 17 Jan 2019 17:03:41 GMT" time="2.359">
+<testcase classname="API" name="list all items in DB" time="0.519"/>
+<testcase classname="API" name="add an item to DB" time="0.132"/>
+<testcase classname="API" name="get an item by id" time="0.235"/>
+<testcase classname="API" name="update the item with specific id" time="0.847"/>
+<testcase classname="API" name="delete an item with specific id" time="0.617"/>
+</testsuite>
